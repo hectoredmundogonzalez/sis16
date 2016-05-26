@@ -18,6 +18,8 @@ public class PjtRepositorio1 {
         // TODO code application logic here
         System.out.println("hola Mundo!");
         
+        System.out.println("Hola Edmundo!");
+        
     }
     
 }
